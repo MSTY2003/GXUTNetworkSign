@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data">
+        <item>选择运营商</item>
+        <item>免费校园网</item>
+        <item>中国电信</item>
+        <item>中国移动</item>
+        <item>中国联通</item>
+    </string-array>
+</resources>
