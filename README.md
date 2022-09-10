@@ -7,3 +7,7 @@ An application in order to log in to GXUT's campus network faster.
 目前的版本，仅仅实现了登陆功能。今后预计加入更多功能来便利校园生活，包括但不限于：校园网断连自动重登、教育大健康定时打卡等（还没想到还会有什么功能）
 
 欢迎参与开发，如果我看见了请求，只要内容合理的话我都会同意的。
+
+下载链接：https://wwn.lanzouj.com/iYY530belbwf
+
+密码:555q
