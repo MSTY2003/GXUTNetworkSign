@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
         editText.setTransformationMethod(PasswordTransformationMethod.getInstance());
         initspinner();
 
+        FileHelper fileHelper = new FileHelper();
 
 
         findViewById(R.id.button2).setOnClickListener(new Button.OnClickListener() {
