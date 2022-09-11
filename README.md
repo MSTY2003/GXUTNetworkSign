@@ -9,5 +9,6 @@ An application in order to log in to GXUT's campus network faster.
 欢迎参与开发，如果我看见了请求，只要内容合理的话我都会同意的。
 
 下载链接：https://wwn.lanzouj.com/iYY530belbwf
+（下载链接不保证是最新版本）
 
 密码:555q
