@@ -1,4 +1,4 @@
-# GXUTNetworkSign
+# GXUTNetworkLogin
 An application in order to log in to GXUT's campus network faster.
 
 为了更快地登陆校园网，节约繁琐步骤浪费掉的时间。
