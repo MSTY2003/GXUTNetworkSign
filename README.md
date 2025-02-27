@@ -21,3 +21,6 @@ An application in order to log in to GXUT's campus network faster.
 
 待会放出release
 
+---
+
+蜚雾学校网管，隔了大半年才解决设备绑定账号的问题
